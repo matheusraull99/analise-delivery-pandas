@@ -1,0 +1,9 @@
+item_id,item_name,restaurant_name,price_eur
+101,Pizza Margherita,Cantina Italiana,14.50
+102,Pizza Pepperoni,Cantina Italiana,16.00
+201,Hambúrguer Clássico,Burger Joint,12.00
+202,Batatas Fritas,Burger Joint,4.50
+301,Pad Thai,Sabores da Ásia,15.00
+302,Rolinho Primavera,Sabores da Ásia,5.00
+401,Suco de Laranja,Padaria Pão Quente,3.50
+402,Coxinha,Padaria Pão Quente,2.50
